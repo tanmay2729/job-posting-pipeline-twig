@@ -82,4 +82,4 @@ On average that is about 1.2k input and 1.0k output tokens per posting. The outp
 ## AI tools used
 
 - **LLM extraction:** `openai/gpt-oss-20b` via Groq
-- **Coding assistance:** TODO, e.g. Claude for code scaffolding, label drafting and this README
+- **Coding assistance:**Claude for code scaffolding, label drafting and the README
